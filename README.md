@@ -75,9 +75,6 @@ ENTER
 BACKSPACE
 → Delete last character in input
 
-CTRL + V
-→ Paste value into selected field
-
 CTRL + R
 → Toggle RGB Mode
 
