@@ -120,3 +120,9 @@ Custom implementation inspired by modern audio visualizers
 ---
 
 Enjoy the visualizer!
+
+
+
+*PREVIEW IMAGE : *
+
+<img width="1920" height="1080" alt="riceee" src="https://github.com/user-attachments/assets/ff1361ee-8c5f-4f73-8260-fcd5d6fcec56" />
